@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 💻 Web developer who loves turning ideas into polished, intuitive interfaces
 - 🤖 Focused on **AI training**: evaluating, refining, and improving AI responses with clear reasoning
-- 🎓 **BA in English**: strong writing, sharp attention to detail, and a knack for explaining things clearly
+- 🎓 **Bachelor of Arts**: strong writing, sharp attention to detail, and a knack for explaining things clearly
 - 🌏 Based in India · Open to remote work
 - 🗣️ Languages: English, Hindi
 
